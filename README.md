@@ -1,0 +1,1 @@
+Flask project I made following Corey Schafer's youtube series. 
