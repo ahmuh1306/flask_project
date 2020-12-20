@@ -1,1 +1,6 @@
 site.db
+config.json
+static/profile_pics/
+*.pyc
+*/*.pyc
+*/*/*.pyc
